@@ -10,4 +10,4 @@
 
 ### My stack technologies:
 
-<img src="icons/html.png" alt="HTML" width="20"><img src="icons/css.png" alt="CSS" width="20"><img src="icons/scss.png" alt="SCSS" width="20"><img src="icons/js.png" alt="JS" width="20"><img src="icons/gulp.webp" alt="Gulp" width="20"><img src="icons/git.png" alt="Git" width="20"><img src="icons/figma.png" alt="Figma" width="20"><img src="icons/photoshop.png" alt="Photoshop" width="20">
+<img src="icons/html.png" alt="HTML" width="20"><img src="icons/css.png" alt="CSS" width="20"><img src="icons/sass.png" alt="SCSS" width="20"><img src="icons/js.png" alt="JS" width="20"><img src="icons/gulp.png" alt="Gulp" width="20"><img src="icons/git.png" alt="Git" width="20"><img src="icons/figma.png" alt="Figma" width="20"><img src="icons/photoshop.png" alt="Photoshop" width="20">
