@@ -1,1 +1,3 @@
-## I'm Alexander Adabir!
+## <center> Hi, I'm Alexander Adabir! :wave: </center>
+
+_<center>Frontend Developer</center>_
